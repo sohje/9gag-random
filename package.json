@@ -1,0 +1,41 @@
+{
+  "name": "9gag-random",
+  "version": "1.0.0",
+  "description": "Download random 9gag.com pictures",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/sohje/9gag-random.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "Nikolay Spiridonov",
+    "email": "nikolay.spiridonov@gmail.com"
+  },
+  "bin": {
+    "9gag-rnd": "cli.js"
+  },
+  "engines": {
+    "node": ">=4.0"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "ws",
+    "websocket",
+    "cli",
+    "command",
+    "sent",
+    "websocket-cli",
+    "ws-cli",
+    "filesystem",
+    "data",
+    "cli-app"
+  ],
+  "devDependencies": {
+    "ava": "*"
+  }
+}
