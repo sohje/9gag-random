@@ -1,6 +1,6 @@
 {
   "name": "9gag-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Download random 9gag.com pictures",
   "license": "MIT",
   "repository": {
@@ -24,13 +24,15 @@
     "test": "ava"
   },
   "keywords": [
-    "ws",
-    "websocket",
+    "9gag",
+    "random",
     "cli",
     "command",
-    "sent",
-    "websocket-cli",
-    "ws-cli",
+    "download",
+    "9gag-cli",
+    "pictures",
+    "funny",
+    "fun",
     "filesystem",
     "data",
     "cli-app"
