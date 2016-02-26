@@ -1,4 +1,4 @@
-# 9gag-random
+# 9gag-random [![Build Status](https://travis-ci.org/sohje/9gag-random.svg?branch=master)](https://travis-ci.org/sohje/9gag-random)
 Download random pictures from [9gag.com](http://9gag.com/) to current dir
 
 ## Install
